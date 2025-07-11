@@ -1,1 +1,4 @@
 /.venv
+
+/classification/test/
+/classification/train/
