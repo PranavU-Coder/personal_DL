@@ -2,3 +2,6 @@
 
 /classification/test/
 /classification/train/
+
+/data_aug/test/
+/data_aug/train/
