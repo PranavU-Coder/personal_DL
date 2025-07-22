@@ -5,3 +5,6 @@
 
 /data_aug/test/
 /data_aug/train/
+
+/transfer_learning/test/
+/transfer_learning/train/
