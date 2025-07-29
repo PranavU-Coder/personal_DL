@@ -8,3 +8,7 @@
 
 /transfer_learning/test/
 /transfer_learning/train/
+
+/multi_class_dataset/rps
+/multi_class_dataset/rps-test-set
+/multi_class_dataset/rps-validation
